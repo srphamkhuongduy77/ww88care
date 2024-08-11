@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+WW88 - ww88.care - Nhà Cái Uy Tín Nhất Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`WW88 <https://ww88.care/>`_ là một trong những nhà cái trực tuyến hàng đầu châu Á, được nhiều người chơi Việt Nam tin tưởng lựa chọn. Với giao diện thân thiện, kho game đa dạng và dịch vụ khách hàng chuyên nghiệp, WW88 mang đến cho người chơi những trải nghiệm cá cược tuyệt vời. Nhà cái này nổi tiếng với các sản phẩm cá cược thể thao, casino trực tuyến, slot game và nhiều trò chơi hấp dẫn khác. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Số điện thoại: 085 536 777
 
-   This project is under active development.
+Email: ww88.care@gmail.com
 
-Contents
---------
+Website: https://ww88.care/
 
-.. toctree::
+Địa chỉ: 20 Đ. Tân Sơn, Phường 15, Tân Bình, Hồ Chí Minh, Việt Nam
 
-   usage
-   api
+Hashtag: #ww88 #ww88care #nhacaiww88 #dangnhapww88 #dangkyww88
